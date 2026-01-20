@@ -2,7 +2,7 @@
 I deployed a Wordpress Website on AWS using a three tier architecture
 # Hosting a WordPress Website on AWS
 
-![Reference Architecture](Deploiement%20of%20a%20Wordpress%20Website%20on%20AWS.png)
+![Reference Architecture](AWS.png)
 
 This project demonstrates how to design, deploy, and operate a **highly available, secure, and scalable WordPress website on AWS**. The solution leverages multiple AWS services across two Availability Zones to ensure fault tolerance, performance, and security.
 
